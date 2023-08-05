@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "E:/github/pmbusmonitor/.pio/libdeps/esp32-c3-devkitm-1/TFT_eSPI",
+    "files.associations": {
+        "cmath": "cpp"
+    }
+}
